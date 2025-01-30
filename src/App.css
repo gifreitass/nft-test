@@ -80,11 +80,11 @@ ul {
   align-items: center;
 }
 
-.nav-button {
+.link-hover {
   transition: 0.7s;
 }
 
-.nav-button:hover {
+.link-hover:hover {
   background-color: #ebcb93;
   padding: 5px 10px;
   border-radius: 5px;

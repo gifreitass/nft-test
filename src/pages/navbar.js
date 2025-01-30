@@ -124,21 +124,21 @@ function Navbar() {
                                 </Tooltip>
                             }
                         >
-                            <a className="nav-button" variant="secondary" href="#">
+                            <a className="link-hover" variant="secondary" href="#">
                                 NFT Marketplace
                             </a>
                         </OverlayTrigger>
                     </li>
                     <li>
-                        <a className="nav-button"  href="#charactersheet">Character Sheet</a>
+                        <a className="link-hover"  href="#charactersheet">Character Sheet</a>
                     </li>
                     <li>
-                        <a className="nav-button"  href="#whitepaper">White Paper</a>
+                        <a className="link-hover"  href="#whitepaper">White Paper</a>
                     </li>
                 </ul>
                 <ul className="wallet-buttons">
                     <li>
-                        <a className="nav-button"  target="blank" href="https://discord.com/invite/FF5grCn4yF">Join Discord</a>
+                        <a className="link-hover"  target="blank" href="https://discord.com/invite/FF5grCn4yF">Join Discord</a>
                     </li>
                     <a href="#" onClick={walletconnect}>
                         <div className="wallet">
