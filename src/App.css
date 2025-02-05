@@ -85,10 +85,7 @@ ul {
 }
 
 .link-hover:hover {
-  background-color: #ebcb93;
-  padding: 5px 10px;
-  border-radius: 5px;
-  color: black;
+  color: white;
 }
 
 .menu-icon {
